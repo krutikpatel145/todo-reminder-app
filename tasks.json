@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "description": "go to gym due 2026-01-28 remind",
+    "due_date": null,
+    "reminder_days": 7,
+    "completed": true,
+    "created": "2025-12-23T22:37:52.611233"
+  },
+  {
+    "id": 2,
+    "description": "go to car service due 2026-01-05 remind",
+    "due_date": null,
+    "reminder_days": 4,
+    "completed": false,
+    "created": "2025-12-23T22:41:26.739091"
+  },
+  {
+    "id": 3,
+    "description": "buy cricket tickets due 2025-12-27 renubd",
+    "due_date": null,
+    "reminder_days": 2,
+    "completed": false,
+    "created": "2025-12-23T22:42:14.596032"
+  },
+  {
+    "id": 4,
+    "description": "buy birthday present due 2025-12-30 remind",
+    "due_date": null,
+    "reminder_days": 6,
+    "completed": false,
+    "created": "2025-12-23T22:42:55.828985"
+  }
+]
